@@ -5,8 +5,8 @@
 
 ## Intoduction 
 
-1.  Control the sequence of co2 cpaturer.
-2.  Read and record the co2 value in datas.
+1.  Control the sequence of Arduino- based co2 cpaturer.
+2.  Read and record the co2 value in csv file.
 
 
 
